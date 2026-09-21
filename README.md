@@ -1,6 +1,4 @@
-```markdown
-CircleImageView
-===============
+# CircleImageView
 
 A fast, lightweight, and crash-free circular ImageView for Android. Designed specifically for profile images, avatars, and modern UI components.
 
