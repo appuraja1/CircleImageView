@@ -118,8 +118,4 @@ limitations under the License.
 
 ```
 
-```
 
-> **Zaroori Note:** Apne project me screenshot image file ka naam **`screenshot.png`** rakh kar project ke root folder me daalein aur `git push origin main` kar dein, taaki `[https://raw.githubusercontent.com/appuraja1/CircleImageView/main/screenshot.png](https://raw.githubusercontent.com/appuraja1/CircleImageView/main/screenshot.png)` link directly load hone lage.
-
-```
