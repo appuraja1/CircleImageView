@@ -1,9 +1,3 @@
-Aapke GitHub repository (`appuraja1/CircleImageView`) ke hisaab se screenshot link ko update kar diya gaya hai.
-
-Agar aap screenshot ko repository ke andar rakh rahe hain, toh recommended tarika yeh hai ki image ko project ke root me `art/screenshot.png` ya `screenshot.png` naam se daal dein.
-
-Yeh raha screenshot section ke sath updated `README.md`:
-
 ```markdown
 CircleImageView
 ===============
