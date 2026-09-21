@@ -4,7 +4,7 @@ CircleImageView
 
 A fast, lightweight, and crash-free circular ImageView for Android. Designed specifically for profile images, avatars, and modern UI components.
 
-![CircleImageView](./screenshot.png)
+![CircleImageView](screenshot.png)
 
 It uses a `BitmapShader` and **does not**:
 * create unnecessary copies of the original bitmap in memory
